@@ -1,1 +1,1 @@
-# brand_assets
+# SecurFi Brand Assets
